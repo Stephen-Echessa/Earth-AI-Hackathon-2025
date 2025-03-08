@@ -20,7 +20,6 @@ prompt = hub.pull('rlm/rag-prompt')
 
 llm = ChatOpenAI(model='gpt-4o-mini')
 
-
 def compute_savings(kg_charcoal_used, charcoal_cost_per_kg=100, 
                     eff_charcoal=0.15, eff_biogas=0.45):
     """
