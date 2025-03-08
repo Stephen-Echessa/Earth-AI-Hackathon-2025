@@ -1,0 +1,15 @@
+langgraph
+langsmith
+langchain-core
+langchain-chroma
+langgraph-checkpoint-sqlite
+langchain-community
+langchain-openai
+python-dotenv
+fastapi
+uvicorn
+faiss-cpu
+pypdf
+python-dotenv
+twilio
+streamlit
